@@ -7,4 +7,3 @@ https://cent-man.vercel.app
 
 Project Section
 
-Projects- Git Basics
